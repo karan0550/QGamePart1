@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingButton4", "JumpingButton4\JumpingButton4.csproj", "{F2940FD6-3934-4D3F-9B2D-498B3FE05D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2940FD6-3934-4D3F-9B2D-498B3FE05D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2940FD6-3934-4D3F-9B2D-498B3FE05D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2940FD6-3934-4D3F-9B2D-498B3FE05D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2940FD6-3934-4D3F-9B2D-498B3FE05D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39302A1-FD59-482E-A564-007F1C501BBF}
+	EndGlobalSection
+EndGlobal

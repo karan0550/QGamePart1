@@ -1,0 +1,23 @@
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.exe
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.exe.config
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csprojAssemblyReference.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.DesignForm.resources
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.QGameControlPanel.resources
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.Properties.Resources.resources
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csproj.GenerateResource.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csproj.CoreCompileInputs.cache
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.exe
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.pdb
+C:\Conestoga\Level 3\Game Prog Data Structures- Prog2370\Assignments\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.pdb
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.exe.config
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.exe
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\bin\Debug\KSharmaAssignment2.pdb
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.DesignForm.resources
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.QGameControlPanel.resources
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.Properties.Resources.resources
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.exe
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.pdb
+C:\Users\Admin\Downloads\KSharmaAssignment2\KSharmaAssignment2\obj\Debug\KSharmaAssignment2.PlayForm.resources

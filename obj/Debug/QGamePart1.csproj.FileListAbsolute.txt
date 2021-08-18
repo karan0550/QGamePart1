@@ -1,0 +1,11 @@
+C:\karan\QGamePart1\bin\Debug\QGamePart1.exe.config
+C:\karan\QGamePart1\bin\Debug\QGamePart1.exe
+C:\karan\QGamePart1\bin\Debug\QGamePart1.pdb
+C:\karan\QGamePart1\obj\Debug\QGamePart1.csprojAssemblyReference.cache
+C:\karan\QGamePart1\obj\Debug\QGamePart1.DesignForm.resources
+C:\karan\QGamePart1\obj\Debug\QGamePart1.QGameControlPanel.resources
+C:\karan\QGamePart1\obj\Debug\QGamePart1.Properties.Resources.resources
+C:\karan\QGamePart1\obj\Debug\QGamePart1.csproj.GenerateResource.cache
+C:\karan\QGamePart1\obj\Debug\QGamePart1.csproj.CoreCompileInputs.cache
+C:\karan\QGamePart1\obj\Debug\QGamePart1.exe
+C:\karan\QGamePart1\obj\Debug\QGamePart1.pdb
